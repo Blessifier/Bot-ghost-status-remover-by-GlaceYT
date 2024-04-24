@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["https://bwz.sell.app/"];
 
 
 let currentIndex = 0;

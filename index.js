@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["https://bwz.sell.app/"];
+const statusMessages = ["SHOP IS OPEN!"];
 
 
 let currentIndex = 0;
